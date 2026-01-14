@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Born to be \"BAU\"DOL☆★",
+  "base_artist": "FUWAMOCO",
+  "createdAt": "2026-01-14T03:07:52.044125Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Born to be \"BAU\"DOL☆★",
+      "artist": "FUWAMOCO",
+      "has_synced": false,
+      "path": "select/01_Born_to_be__BAU_DOL☆★_FUWAMOCO.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Born to be ＂BAU＂DOL☆★",
+      "artist": "FUWAMOCO",
+      "has_synced": true,
+      "path": "select/02_Born_to_be__BAU_DOL☆★_FUWAMOCO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Born to be “BAU\"DOL☆★",
+      "artist": "FUWAMOCO",
+      "has_synced": true,
+      "path": "select/03_Born_to_be_“BAU_DOL☆★_FUWAMOCO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Born to be \"BAU\"DOL☆★",
+      "artist": "Fuwawa Abyssgard",
+      "has_synced": false,
+      "path": "select/04_Born_to_be__BAU_DOL☆★_Fuwawa_Abyssgard.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Born to be \"BAU\"DOL",
+      "artist": "FUWAMOCO",
+      "has_synced": false,
+      "path": "select/05_Born_to_be__BAU_DOL_FUWAMOCO.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Born To Be “Bau”dol☆★ (Eurobeat Remix)",
+      "artist": "FUWAMOCO",
+      "has_synced": false,
+      "path": "select/06_Born_To_Be_“Bau”dol☆★_(Eurobeat_Remix)_FUWAMOCO.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Born to be \"\"BAU\"\"DOL☆★ - Eurobeat Remix",
+      "artist": "FUWAMOCO",
+      "has_synced": false,
+      "path": "select/07_Born_to_be__BAU_DOL☆★_-_Eurobeat_Remix_FUWAMOCO.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Born to be \"BAU\"DOL☆★",
+      "artist": "Fuwawa Abyssgard, Mococo Abyssgard",
+      "has_synced": false,
+      "path": "select/08_Born_to_be__BAU_DOL☆★_Fuwawa_Abyssgard,_Mococo_Abyssgard.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Born to be \"BAU\"DOL☆★",
+      "artist": "FUWAMOCO",
+      "has_synced": false,
+      "path": "select/pl_01_Born_to_be__BAU_DOL☆★_FUWAMOCO.txt"
+    }
+  ]
+}
